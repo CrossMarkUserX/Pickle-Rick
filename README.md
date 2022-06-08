@@ -1,5 +1,5 @@
 # Pickle-Rick @TryHackMe
-Write-Up de la maquina pickle rick de tryhackme:
+Write-Up de la maquina pickle rick de tryhackme (https://tryhackme.com/room/picklerick):
 
 **Resalto, pude haberlo hecho entablando una reverseshell, solo que como tenía todo en bandeja de oro, decidí hacerlo por la web**
 
