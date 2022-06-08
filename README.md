@@ -1,4 +1,4 @@
-# Pickle-Rick @tryhackme
+# Pickle-Rick @TryHackMe
 Write-Up de la maquina pickle rick de tryhackme:
 
 **Resalto, pude haberlo hecho entablando una reverseshell, solo que como tenía todo en bandeja de oro, decidí hacerlo por la web**
